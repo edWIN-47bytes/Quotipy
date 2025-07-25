@@ -45,7 +45,6 @@ quotipy/
 ├── package.json          # Project dependencies and scripts
 ```
 
----
 
 ## 🚀 How to Run Locally
 
